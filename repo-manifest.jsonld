@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/django-commons/django-prometheus/commit/5093c6366d1c88f0597bf9cbdcb40e09e9f56c8b",
       "git:hexsha": "5093c6366d1c88f0597bf9cbdcb40e09e9f56c8b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-02T18:22:14.446651+00:00"
     },
     {
       "@id": "https://repolex.ai/r/django-commons/django-prometheus/commit/f55b7c1a7b5b86266c0fbda2d08d4d939c67485b",
